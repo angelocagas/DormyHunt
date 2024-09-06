@@ -1,0 +1,1258 @@
+[
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-mdpi_ic_units.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-mdpi/ic_units.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xxhdpi_ic_notif.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xxhdpi/ic_notif.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xxhdpi_ic_back.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xxhdpi/ic_back.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_terms_icon.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/terms_icon.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xxhdpi_ic_home.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xxhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dormify_logo_white_half.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dormify_logo_white_half.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_download_from_the_cloud.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_download_from_the_cloud.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_round_back_secondary_100.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/round_back_secondary_100.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_twitter.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_twitter.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_done.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_done.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_about.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_about.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_about_icon.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/about_icon.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_toolbox.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_toolbox.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_key.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_key.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_logo_no_bg_onmap.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/logo_no_bg_onmap.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_star.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xhdpi_ic_units_round.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xhdpi/ic_units_round.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-hdpi_ic_delete.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_item_chat_message_left.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_chat_message_left.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_landlord_dashboard.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_landlord_dashboard.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_info.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_info.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xxxhdpi_ic_units_round.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xxxhdpi/ic_units_round.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-anydpi_ic_edit.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-anydpi/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/menu_bottom_menu.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_cancel.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_cancel.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_rectangle_radius_super_light_gray3.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/rectangle_radius_super_light_gray3.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_instagram.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_instagram.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xxhdpi_ic_edit.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_base_chat.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/base_chat.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_trash2.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_trash2.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_loc.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_loc.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_refresh.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_refresh.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xhdpi_ic_edit.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xhdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_admin_home_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/admin_home_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-anydpi_ic_home.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-anydpi/ic_home.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_admin_dashboard.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_ok.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_ok.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_folder.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_folder.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_fragment_admin_list.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_admin_list.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_file.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_file.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_main.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_adapter_tenant_details.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/adapter_tenant_details.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_recycler_payment_list.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/recycler_payment_list.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/menu_bottom_menu2.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/menu/bottom_menu2.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_item_chat_message_rightland.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_chat_message_rightland.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_edit_text_rounded_corner.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/edit_text_rounded_corner.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xhdpi_ic_back_arrow.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xhdpi/ic_back_arrow.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_services.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_services.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-mdpi_ic_notif.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-mdpi/ic_notif.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_favorite.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_favorite.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xxhdpi_ic_units.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xxhdpi/ic_units.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_sign_up_otp.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_sign_up_otp.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_background.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/background.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_backgroundnew.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/backgroundnew.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_box.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_box.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_logo_no_bg_half.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/logo_no_bg_half.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_dormitory_list_request.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/dormitory_list_request.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_maint.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/maint.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_picture.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_picture.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_tenants.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_tenants.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_minimize.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_minimize.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_schedule.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_schedule.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_rectangle_radius_light_gray.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/rectangle_radius_light_gray.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xhdpi_ic_home.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_tenant_item_layout.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/tenant_item_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_maximize.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_maximize.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_speech_bubble.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_speech_bubble.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_poppins_thin.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/poppins_thin.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xhdpi_ic_back.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xhdpi/ic_back.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-mdpi_ic_home.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-mdpi/ic_home.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-anydpi-v26_ic_units.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-anydpi-v26/ic_units.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_circle_black.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/circle_black.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-mdpi_ic_back.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-mdpi/ic_back.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_contacts.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_contacts.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.dormyhunt.app-pngs-54:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_item_payment_history.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_payment_history.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_profile_icon2.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/profile_icon2.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_room_item_layout_orig.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/room_item_layout_orig.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_base_save.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/base_save.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_round_back_notification.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/round_back_notification.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xxhdpi_ic_delete.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_add.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/add.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_map_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/map_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.dormyhunt.app-pngs-54:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_landlord.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_landlord.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_transparent_otp_security.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/transparent_otp_security.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_synchronize.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_synchronize.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-mdpi_ic_units_round.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-mdpi/ic_units_round.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_units_background.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_units_background.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_fragment_request_detail.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_request_detail.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/xml_backup_rules.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_sign_up_landlord.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_sign_up_landlord.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-anydpi_ic_delete.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-anydpi/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_restart.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_restart.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_zactivity_sign_up2.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/zactivity_sign_up2.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_vote.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_vote.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_heartbtn.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_heartbtn.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_documents.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_documents.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_search.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_search.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_inter_medium.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/inter_medium.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_gcash.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_gcash.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_support.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_support.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_bookmark.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_bookmark.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_bg_lightmode.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/bg_lightmode.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-mdpi_ic_delete.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_circle_btn.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/circle_btn.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_ecash.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_ecash.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_dialog_rate.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/dialog_rate.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_zactivity_sign_up3.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/zactivity_sign_up3.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_telephone.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_telephone.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_sign_up_tenant.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_sign_up_tenant.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_no_synchronize.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_no_synchronize.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_rectangle_radius_white_stroke_violet.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/rectangle_radius_white_stroke_violet.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xhdpi_ic_units.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xhdpi/ic_units.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_filled_bookmark_ribbon.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_filled_bookmark_ribbon.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_checkmark.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_checkmark.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_search.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_search.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_play.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_play.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_logout.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_logout.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_home.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_home.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_no.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_no.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_dormitory_item_layout.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/dormitory_item_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_item_landlord_conversation.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_landlord_conversation.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_payment_process.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/payment_process.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_circle_white.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/circle_white.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_archivo_black.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/archivo_black.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_facebook.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_facebook.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.dormyhunt.app-pngs-54:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_landlord_add_tenant_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_add_tenant_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_round_back_private_account.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/round_back_private_account.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_back.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/back.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_rectangle_radius_white.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/rectangle_radius_white.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-mdpi_ic_back_arrow.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-mdpi/ic_back_arrow.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_home_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/home_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dormify_logo.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dormify_logo.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_about_us.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_request_item_layout.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/request_item_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-anydpi-v26_ic_units_round.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-anydpi-v26/ic_units_round.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_fragment_landlord_conversations.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_landlord_conversations.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_businesspermitplaceholder.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/businesspermitplaceholder.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_trash.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_trash.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_location.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_star.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_star.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_rectangle_radius_super_light_gray.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/rectangle_radius_super_light_gray.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xhdpi_ic_units.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xhdpi/ic_units.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_saved_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/saved_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_edit_mini.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_edit_mini.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_error_image.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/error_image.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dormpictureplaceholder.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dormpictureplaceholder.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_opo_msg_back.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/opo_msg_back.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-anydpi_ic_units.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-anydpi/ic_units.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_sendbtn.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_sendbtn.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_unavailable.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_unavailable.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_bed.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_bed.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_back_btn.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/back_btn.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_hind_guntur_bold.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/hind_guntur_bold.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-hdpi_ic_back.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-hdpi/ic_back.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_landlord_units_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_units_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-anydpi_ic_back_arrow.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-anydpi/ic_back_arrow.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-hdpi_ic_notif.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-hdpi/ic_notif.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_hind_guntur_medium.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/hind_guntur_medium.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_hind_guntur.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/hind_guntur.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_rectangle_radius_white_stroke_black.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/rectangle_radius_white_stroke_black.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_check_icon.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/check_icon.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_sun.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_sun.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_records.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_records.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_units_foreground.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_units_foreground.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_landlord_messages_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_messages_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_bottom_bg.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/bottom_bg.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_circle_light_gray.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/circle_light_gray.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_fragment_dormitory_detail.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_dormitory_detail.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_base_payment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/base_payment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_image_file.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_image_file.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_personal_info_icon.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/personal_info_icon.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_profile_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/profile_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_arrow_circle_down.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_arrow_circle_down.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_settings.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_settings.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_bath.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_bath.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_hind.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/hind.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_landlord_tenants_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_tenants_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_backbtn.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_backbtn.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_open_lock.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_open_lock.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_chatbox.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/chatbox.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-hdpi_ic_home.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xhdpi_ic_notif.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xhdpi/ic_notif.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_base_home.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/base_home.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_person_icon.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/person_icon.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_trashbtn.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_trashbtn.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_key.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_key.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_right_arrow_icon.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/right_arrow_icon.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_external_link.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_external_link.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xxhdpi_ic_units_round.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xxhdpi/ic_units_round.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_total_earnings.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_total_earnings.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_language_icon.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/language_icon.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-hdpi_ic_units.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-hdpi/ic_units.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_plus.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_plus.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_upload_to_the_cloud.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_upload_to_the_cloud.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_round_back_security.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/round_back_security.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/navigation_nav_graph.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_phone.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_phone.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_circle_violet.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/circle_violet.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/menu_admin_menu.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/menu/admin_menu.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_poppins_bold.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/poppins_bold.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_fragment_dashboard_payment_tenant.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_dashboard_payment_tenant.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_chat_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/chat_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_wallet.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_wallet.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_landlord_home_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_home_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_fragment_rental_requests_list.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_rental_requests_list.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_share2.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_share2.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_poppins.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/poppins.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-hdpi_ic_edit.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-hdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_close.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_close.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-hdpi_ic_units.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-hdpi/ic_units.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/baseline_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xhdpi_ic_delete.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_base_person.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/base_person.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_profile_icon.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/profile_icon.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_night_mode_icon.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/night_mode_icon.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.dormyhunt.app-pngs-54:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_inter_light.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/inter_light.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_notifications.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_notifications.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-mdpi_ic_units.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-mdpi/ic_units.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_karla.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/karla.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_zactivity_sign_up1.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/zactivity_sign_up1.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_request_dormitory_layout.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/request_dormitory_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_landlord_add_dormitory_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_add_dormitory_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xxhdpi_ic_back_arrow.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-xxhdpi/ic_back_arrow.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_logo_on_map.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/logo_on_map.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_terms_and_conditions.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_terms_and_conditions.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_signup_screen.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/signup_screen.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_logo_no_bg.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/logo_no_bg.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_rectangle_radius_white_stroke_blackerror.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/rectangle_radius_white_stroke_blackerror.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xxxhdpi_ic_units.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xxxhdpi/ic_units.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_menu.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_menu.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_idplaceholder.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/idplaceholder.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_profileplaceholder.jpg.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/profileplaceholder.jpg"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_pinadd.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_pinadd.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_security_icon.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/security_icon.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_dashboard3.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_dashboard3.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-mdpi_ic_edit.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-mdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.dormyhunt.app-pngs-54:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_chau_philomene_one.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/chau_philomene_one.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-xxhdpi_ic_units.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-xxhdpi/ic_units.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_clock.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_clock.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_chat.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_chat.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_payments.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_payments.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.dormyhunt.app-pngs-54:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_landlord_conversations_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_conversations_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_tick_box.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_tick_box.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/mipmap-hdpi_ic_units_round.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/mipmap-hdpi/ic_units_round.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_delete.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_delete.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_my_msg_back.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/my_msg_back.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_splashscreen.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/splashscreen.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_private_acc_icon.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/private_acc_icon.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_fragment_request_dorm_detail.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_request_dorm_detail.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_signin_screen.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/signin_screen.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_edit.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_edit.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_fragment_assign_tenant.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_assign_tenant.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_bg_btn_bck_lightdisable.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/bg_btn_bck_lightdisable.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_custom_button.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/custom_button.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_tenant.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_tenant.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_opened_folder.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_opened_folder.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_notif_icon.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/notif_icon.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_refresh.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_refresh.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_image_preview_item.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/image_preview_item.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_bg_parallax.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/bg_parallax.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_padlock.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_padlock.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_item_chat_message_right.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_chat_message_right.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_fragment_request_rent.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_request_rent.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_bg_box.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/bg_box.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_room_item_layout.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/room_item_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_connect.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_connect.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_all_dormitory_item_layout.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/all_dormitory_item_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_round_back_white10_20.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/round_back_white10_20.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_lock.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_lock.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_item_chat_message_leftland.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_chat_message_leftland.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-anydpi_ic_back.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-anydpi/ic_back.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-hdpi_ic_back_arrow.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-hdpi/ic_back_arrow.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/menu_landlord_bottom_menu.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/menu/landlord_bottom_menu.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_round_back_night_mode.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/round_back_night_mode.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_message.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_message.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_activity_personal_information.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_personal_information.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_image_item.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/image_item.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_bg_btn_bck_light.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/bg_btn_bck_light.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_img.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.dormyhunt.app-pngs-54:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_done2.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_done2.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/font_karla_bold.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/font/karla_bold.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_fragment_room_list.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_room_list.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_rectangle_radius_super_light_gray2.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/rectangle_radius_super_light_gray2.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_rectangle_radius_violet.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/rectangle_radius_violet.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_google_plus.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_google_plus.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_delete_mini.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_delete_mini.png"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable-anydpi_ic_notif.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable-anydpi/ic_notif.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_ic_filters.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/ic_filters.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/layout_payment_fragment.xml.flat",
+        "source": "com.example.dormyhunt.app-main-60:/layout/payment_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-merged_res-58:/drawable_dorm_share.png.flat",
+        "source": "com.example.dormyhunt.app-main-60:/drawable/dorm_share.png"
+    }
+]

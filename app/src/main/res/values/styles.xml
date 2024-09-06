@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!--night mode-->
+    <style name="nightModeSwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/night_mode</item>
+        <item name="colorSwitchThumbNormal">#9A9A9A</item>
+        <item name="android:colorForeground">#996A6A6A</item>
+    </style>
+
+    <!--notif-->
+    <style name="notifModeSwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/night_mode</item>
+        <item name="colorSwitchThumbNormal">#9A9A9A</item>
+        <item name="android:colorForeground">#996A6A6A</item>
+    </style>
+
+    <!--security-->
+    <style name="securityModeSwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/night_mode</item>
+        <item name="colorSwitchThumbNormal">#FFFFFF</item>
+        <item name="android:colorForeground">#99FFFFFF</item>
+    </style>
+
+    <style name="MyRadioButtonable" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:buttonTint">@color/radiobtnable</item>
+    </style>
+
+    <style name="MyRadioButtonerror" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:buttonTint">@color/radiobtnerror</item>
+    </style>
+
+
+
+</resources>

@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:scrollbars="none">
+
+
+        <!--  SCrollview -->
+        <ScrollView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+
+                <!-- The original -->
+                <RelativeLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/ivDormitoryImagecardview"
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        app:cardCornerRadius="10dp"
+                        app:cardElevation="6dp">
+
+                        <androidx.appcompat.widget.AppCompatButton
+                            android:id="@+id/backbtn"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/dorm_backbtn"
+                            android:backgroundTint="@color/dormify_clr" />
+
+                        <!--   <androidx.recyclerview.widget.RecyclerView
+                             android:id="@+id/displayRecyclerViews"
+                             android:layout_width="match_parent"
+                             android:layout_height="200dp"
+                             android:layout_centerHorizontal="true"
+                             android:scaleType="centerCrop"
+                              />
+ -->
+
+
+                      <!--<ImageView
+                         android:id="@+id/ivDormitoryImage"
+                         android:layout_width="match_parent"
+                         android:layout_height="200dp"
+                         android:layout_centerHorizontal="true"
+                         android:contentDescription="Dormitory Image"
+                         android:scaleType="centerCrop"
+                         android:src="@drawable/dormify_logo" /> -->
+                        <com.google.android.material.tabs.TabLayout
+                            android:id="@+id/tabLayout"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:layout_constraintTop_toTopOf="parent"
+                            app:tabGravity="center"
+                            app:tabMode="scrollable"/>
+
+                        <!-- ViewPager2 for image slider -->
+                        <androidx.viewpager2.widget.ViewPager2
+                            android:id="@+id/viewPager"
+                            android:layout_width="match_parent"
+                            android:layout_height="190dp"
+                            app:layout_constraintTop_toBottomOf="@id/tabLayout"
+                            app:layout_constraintBottom_toBottomOf="parent" />
+
+
+                </androidx.cardview.widget.CardView>
+                <!-- Dormitory Image -->
+
+                    <RelativeLayout
+                        android:id="@+id/dorminfolayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/ivDormitoryImagecardview">
+                        <!-- Dormitory loc -->
+
+                        <TextView
+                            android:id="@+id/textDormName"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginTop="10dp"
+                            android:layout_toStartOf="@+id/btnChatLandlord"
+                            android:text="DormName"
+                            android:textColor="#000000"
+                            android:textSize="22sp"
+                            android:textStyle="bold" />
+
+
+                        <TextView
+                            android:id="@+id/textDormloc"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/textDormName"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:text="1 Fully Furnished Condo Unit for Rent in Quezon City"
+                            android:textAlignment="viewStart"
+                            android:textColor="@color/black"
+                            android:textSize="14sp"
+                            android:textStyle="bold" />
+
+                        <!-- Back button -->
+
+
+                        <androidx.appcompat.widget.AppCompatButton
+                            android:id="@+id/btnRemoveFromSaved"
+                            android:layout_width="28dp"
+                            android:layout_height="28dp"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginEnd="20dp"
+                            android:background="@drawable/dorm_trash"
+                            android:backgroundTint="#DC5165"
+                            android:visibility="gone" />
+
+                        <androidx.appcompat.widget.AppCompatButton
+                            android:id="@+id/btnAddToSaved"
+                            android:layout_width="34dp"
+                            android:layout_height="34dp"
+                            android:layout_alignTop="@id/btnChatLandlord"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginTop="-3dp"
+                            android:layout_marginEnd="17dp"
+                            android:background="@drawable/dorm_favorite"
+                            android:backgroundTint="#DC5165"
+                            android:drawableTint="@color/bg_bx_dark"
+                            android:textColor="@color/clear" />
+
+
+                        <androidx.appcompat.widget.AppCompatButton
+
+                            android:id="@+id/btnChatLandlord"
+                            android:layout_width="28dp"
+                            android:layout_height="28dp"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginEnd="55dp"
+                            android:background="@drawable/dorm_message"
+                            android:backgroundTint="@color/chat_color_sender" />
+
+                        <RatingBar
+                            android:id="@+id/Ratingbar"
+                            android:layout_width="243dp"
+                            android:layout_height="44dp"
+                            android:layout_marginTop="6dp"
+                            android:layout_below="@+id/textDormloc"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="3dp"
+                            android:numStars="5"
+                            android:progressTint="#FFBF00"
+                            android:rating="0"
+                            android:scaleX=".45"
+                            android:isIndicator="true"
+                            android:scaleY=".45"
+                            android:stepSize=".5"
+                            android:transformPivotX="1dp" />
+
+
+                        <ImageView
+                            android:id="@+id/lord"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignEnd="@+id/Ratingbar"
+                            android:layout_alignParentBottom="true"
+                            android:layout_marginEnd="246dp"
+                            android:layout_marginBottom="131dp" />
+                        <TextView
+                            android:id="@+id/Ratingtxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignTop="@id/Ratingbar"
+                            android:layout_marginBottom="10dp"
+                            android:text="Loading"
+                            android:layout_marginTop="4dp"
+                            android:layout_toEndOf="@id/Ratingbar"
+                            android:layout_marginStart="-130dp"
+                            android:textAlignment="viewStart"
+                            android:textColor="@color/black"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.8dp"
+                            android:layout_below="@+id/Ratingbar"
+                            android:background="#000000" />
+
+                    </RelativeLayout>
+
+
+                    <!-- Description -->
+                    <TextView
+                        android:layout_width="340dp"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/dorminfolayout"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginStart="21dp"
+                        android:layout_marginTop="5dp"
+                        android:text="Description"
+                        android:textColor="#000000"
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/ViewContent"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/dorminfolayout"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="35dp"
+                        android:layout_marginEnd="20dp"
+                        android:text="Direct-to-owner transaction only (no agents/brokers). Fully Furnished with appliances and furniture (except for TV-not included and WIFI - personal account of tenant). Rent inclusive of association dues only, WIFI and utility bills not included."
+                        android:textSize="15sp" />
+
+                    <TextView
+                        android:id="@+id/lblGenderRestrictions"
+                        android:layout_width="340dp"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/ViewContent"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginStart="21dp"
+                        android:layout_marginTop="5dp"
+                        android:text="Gender Restrictions:"
+                        android:textColor="#000000"
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/tvGenderRestriction"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/lblGenderRestrictions"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginEnd="20dp"
+                        android:textSize="15sp"
+                        android:text="sample"/>
+
+
+
+                    <View
+                        android:id="@+id/dividerTop"
+                        android:layout_width="match_parent"
+                        android:layout_height="0.8dp"
+                        android:layout_below="@+id/tvGenderRestriction"
+                        android:layout_marginTop="8dp"
+                        android:background="#000000" />
+
+                    <!--amenities info-->
+
+                    <RelativeLayout
+                        android:id="@+id/amenitieslayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/dividerTop">
+
+
+                        <TextView
+
+                            android:id="@+id/Amenities"
+                            android:layout_width="340dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="21dp"
+                            android:layout_marginTop="20dp"
+                            android:text="Amenities &amp; Features"
+                            android:textColor="#000000"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+                        <TextView
+                            android:id="@+id/Amenities2Listtxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/Amenities"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="5dp"
+                            android:text=""
+                            android:textColor="@color/chat_color_sender" />
+
+
+                        <TextView
+                            android:id="@+id/AmenitiesListtxt"
+                            android:layout_width="wrap_content"
+                            android:visibility="gone"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/Amenities2Listtxt"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="20dp"
+                            android:text=""
+                            android:textColor="@color/chat_color_sender" />
+
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.8dp"
+                            android:layout_below="@+id/AmenitiesListtxt"
+                            android:layout_marginTop="10dp"
+                            android:background="#000000" />
+
+
+                    </RelativeLayout>
+
+
+                    <!--room info-->
+
+                    <RelativeLayout
+                        android:id="@+id/RI"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/amenitieslayout">
+
+
+                        <TextView
+
+                            android:id="@+id/Room"
+                            android:layout_width="340dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="21dp"
+                            android:layout_marginTop="20dp"
+                            android:text="Room Information"
+                            android:textColor="#000000"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+
+                        <TextView
+                            android:id="@+id/maxx"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/Room"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Max Capacity per Room"
+                            android:textColor="#000000" />
+
+                        <TextView
+                            android:id="@+id/RoomCapacitytxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/maxx"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="0dp"
+                            android:text="5"
+                            android:textColor="@color/chat_color_sender"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/lblbath"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/RoomCapacitytxt"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Bathroom"
+                            android:textColor="#000000" />
+
+
+                        <TextView
+                            android:id="@+id/Availableroomtxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/roommm"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginEnd="40dp"
+                            android:text="8"
+                            android:textColor="@color/chat_color_sender"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/Bathroomtxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/lblbath"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="0dp"
+                            android:text="@string/shared_public"
+                            android:textColor="@color/chat_color_sender"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+
+
+                        <TextView
+                            android:id="@+id/roommm"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/Room"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginEnd="40dp"
+                            android:text="Rooms"
+                            android:textColor="#000000" />
+
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.8dp"
+                            android:layout_below="@+id/Bathroomtxt"
+                            android:layout_marginTop="10dp"
+                            android:background="#000000" />
+
+
+                        <TextView
+                            android:id="@+id/availabelbl"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/Room"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginEnd="40dp"
+                            android:text="Available Rooms"
+                            android:layout_alignTop="@+id/lblbath"
+                            android:textColor="#000000" />
+
+                        <TextView
+                            android:id="@+id/occupiedtxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/roommm"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_alignTop="@+id/Bathroomtxt"
+                            android:layout_marginEnd="40dp"
+                            android:text="7"
+                            android:textColor="@color/chat_color_sender"
+                            android:textStyle="bold" />
+
+
+                    </RelativeLayout>
+
+
+                    <!--payment terms-->
+
+                    <RelativeLayout
+                        android:id="@+id/paymentlayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/RI">
+
+
+                        <TextView
+
+                            android:id="@+id/pay"
+                            android:layout_width="340dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="21dp"
+                            android:layout_marginTop="20dp"
+                            android:text="Payment Terms"
+                            android:textColor="#000000"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+
+                        <TextView
+android:id="@+id/lblpay"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/pay"
+                            android:layout_marginStart="20dp"
+                            android:text="Payment Method"
+                            android:textColor="#000000" />
+
+                        <TextView
+                            android:id="@+id/PaymentMethodtxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/lblpay"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="0dp"
+                            android:text="Cash On Hand\nGcash"
+                            android:textColor="@color/chat_color_sender"
+                            android:textSize="14sp"
+                            android:textStyle="bold" />
+
+
+                        <TextView
+android:id="@+id/lblrentalterms"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/PaymentMethodtxt"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Rental Term"
+                            android:textColor="#000000" />
+
+                        <TextView
+                            android:id="@+id/MinimumStaytxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/lblrentalterms"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="0dp"
+                            android:text="6 Months"
+                            android:textColor="@color/chat_color_sender"
+                            android:textStyle="bold" />
+
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/pay"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginStart="20dp"
+
+                            android:layout_marginEnd="40dp"
+                            android:text="Electricity Bills"
+                            android:textColor="#000000" />
+
+                        <TextView
+                            android:id="@+id/Electricitytxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/lblpay"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginEnd="40dp"
+                            android:text="INCLUDED"
+                            android:textColor="@color/chat_color_sender"
+                            android:textStyle="bold" />
+
+                        <TextView
+android:id="@+id/lblwaterr"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/Electricitytxt"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginEnd="40dp"
+                            android:text="Water Bills"
+                            android:layout_alignTop="@+id/lblrentalterms"
+                            android:textColor="#000000" />
+
+                        <TextView
+                            android:id="@+id/Watertxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/lblwaterr"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginEnd="40dp"
+                            android:text="EXCLUDED"
+                            android:textColor="@color/chat_color_sender"
+                            android:textStyle="bold" />
+
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.8dp"
+                            android:layout_below="@+id/Watertxt"
+                            android:layout_marginTop="10dp"
+                            android:background="#000000" />
+
+                    </RelativeLayout>
+
+                    <!-- Property location -->
+
+                    <RelativeLayout
+                        android:id="@+id/propertylayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/paymentlayout">
+
+                        <TextView
+                            android:id="@+id/Property"
+                            android:layout_width="340dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="21dp"
+                            android:layout_marginTop="20dp"
+                            android:text="Dormitory Location"
+                            android:textColor="#000000"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <fragment
+                            android:id="@+id/ivMapView"
+                            android:name="com.google.android.gms.maps.SupportMapFragment"
+                            android:layout_width="match_parent"
+                            android:layout_height="300dp"
+                            android:layout_below="@+id/Property"
+                            android:layout_marginTop="16dp"
+                            android:layout_marginBottom="15dp"
+                            android:background="@drawable/rectangle_radius_white_stroke_black"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent" />
+
+                        <TextView
+                            android:id="@+id/Exact"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/ivMapView"
+                            android:layout_centerHorizontal="true"
+                            android:fontFamily="@font/inter_light"
+                            android:text="Exact location will be provided after visit schedule was approved."
+                            android:textColor="@color/chat_color_sender"
+                            android:textSize="11sp"
+                            android:textStyle="italic"
+                            android:visibility="invisible" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.8dp"
+                            android:layout_below="@+id/Exact"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="10dp"
+                            android:background="#000000" />
+
+
+                    </RelativeLayout>
+                    <!--landlord info-->
+
+                    <RelativeLayout
+                        android:id="@+id/landlordinfolayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/propertylayout">
+
+
+                        <TextView
+
+                            android:id="@+id/Landlordinfo"
+                            android:layout_width="340dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="21dp"
+                            android:text="Landlord Information"
+                            android:textColor="#000000"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+
+                        <androidx.cardview.widget.CardView
+                            android:id="@+id/cardViewImage"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_below="@+id/Landlordinfo"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginEnd="10dp"
+                            android:elevation="1dp"
+                            app:cardCornerRadius="30dp">
+
+                            <ImageView
+
+                                android:id="@+id/ivProfilePicture"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_gravity="center"
+                                android:scaleType="centerCrop"
+                                android:src="@drawable/profileplaceholder"
+                                app:layout_constraintEnd_toEndOf="parent"
+                                app:layout_constraintTop_toTopOf="parent" />
+
+                        </androidx.cardview.widget.CardView>
+
+
+                        <TextView
+                            android:id="@+id/tvUserName"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/Landlordinfo"
+                            android:layout_marginStart="8dp"
+                            android:layout_marginTop="12dp"
+                            android:layout_toEndOf="@+id/cardViewImage"
+                            android:text="David Joshua Balaoro Carreon "
+                            android:textColor="#000000"
+                            android:textSize="18sp"
+                            android:maxLines="1"
+                            android:maxLength="28"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/contt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/cardViewImage"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Contact Number"
+                            android:textColor="#000000" />
+
+                        <TextView
+                            android:id="@+id/contactTxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/contt"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="0dp"
+                            android:text="09123456789"
+                            android:textColor="@color/chat_color_sender"
+                            android:textStyle="bold" />
+
+
+                        <TextView
+                            android:id="@+id/emailview"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/cardViewImage"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginEnd="140dp"
+                            android:text="Email"
+                            android:textColor="#000000" />
+
+                        <TextView
+                            android:id="@+id/emailtxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/contt"
+                            android:layout_alignStart="@id/emailview"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginTop="0dp"
+                            android:maxLines="1"
+                            android:text="sample1@gmail.com"
+                            android:textColor="@color/chat_color_sender"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.8dp"
+                            android:layout_below="@+id/emailtxt"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="10dp"
+                            android:background="#000000" />
+
+                    </RelativeLayout>
+
+
+                    <!--permit info-->
+
+                    <RelativeLayout
+                        android:id="@+id/permitlayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/landlordinfolayout">
+
+
+                        <TextView
+
+                            android:id="@+id/permittxt"
+                            android:layout_width="340dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="21dp"
+                            android:layout_marginTop="20dp"
+                            android:text="Permit Detail"
+                            android:textColor="#000000"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <androidx.cardview.widget.CardView
+                            android:id="@+id/cardviewpermitImage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/permittxt"
+                            android:layout_centerInParent="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="10dp"
+                            android:scaleType="centerCrop"
+                            app:cardCornerRadius="10dp"
+                            app:cardElevation="5dp">
+
+                            <ImageView
+                                android:id="@+id/permitImage"
+                                android:layout_width="350dp"
+                                android:layout_height="400dp"
+                                android:src="@drawable/dormify_logo" />
+
+                        </androidx.cardview.widget.CardView>
+
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.8dp"
+                            android:layout_below="@+id/cardviewpermitImage"
+                            android:layout_marginTop="10dp"
+                            android:background="#000000" />
+
+                    </RelativeLayout>
+
+
+                    <!--QRCODE info-->
+
+                    <RelativeLayout
+                        android:id="@+id/qrcode"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/permitlayout"
+                        android:layout_marginTop="-2dp">
+
+
+                        <TextView
+
+                            android:id="@+id/qrcodetxt"
+                            android:layout_width="340dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="21dp"
+                            android:layout_marginTop="20dp"
+                            android:text="Scan Me!"
+                            android:textColor="#000000"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <androidx.cardview.widget.CardView
+                            android:id="@+id/cardviewqrcodeimage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/qrcodetxt"
+                            android:layout_centerInParent="true"
+                            android:layout_marginTop="10dp"
+                            android:scaleType="centerCrop"
+                            app:cardCornerRadius="10dp"
+                            app:cardElevation="10dp">
+
+                            <ImageView
+                                android:id="@+id/qrcodeimage"
+                                android:layout_width="300dp"
+                                android:layout_height="320dp"
+                                android:layout_gravity="center"
+                                android:src="@drawable/dormify_logo" />
+                        </androidx.cardview.widget.CardView>
+
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.8dp"
+                            android:layout_below="@+id/cardviewqrcodeimage"
+                            android:layout_marginTop="20dp"
+                            android:layout_marginBottom="100dp"
+                            android:background="#000000" />
+
+                    </RelativeLayout>
+
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+
+    </LinearLayout>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:cardElevation="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+
+        <!-- bottom nav -->
+        <RelativeLayout
+            android:id="@+id/bottomlevel"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/bg_box"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="8dp">
+
+
+                <TextView
+                    android:id="@+id/textDormPrice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="0dp"
+                    android:fontFamily="@font/hind_guntur_bold"
+                    android:gravity="center_horizontal"
+                    android:paddingStart="13dp"
+                    android:text="2200"
+                    android:textColor="@color/black"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/monthlytxt"
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:layout_toEndOf="@+id/textDormPrice"
+                    android:fontFamily="@font/karla"
+                    android:gravity="center_horizontal"
+                    android:paddingStart="4dp"
+                    android:text=""
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+
+
+            </RelativeLayout>
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/inquirebtn"
+                android:layout_width="180dp"
+                android:layout_height="36dp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/bg_btn_bck_light"
+                android:fontFamily="@font/poppins_bold"
+                android:text="Rent Now!"
+                android:textColor="@color/white"
+                android:textSize="10sp" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

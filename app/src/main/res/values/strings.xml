@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Dormy-hunt</string>
+    <string name="backsign"><![CDATA[<]]></string>
+    <string name="it_s_simple_to_get_set_up_and_start_earnings">it\'s simple to get set up and start earnings</string>
+    <string name="add_you_place">Add you place</string>
+    <string name="title_activity_landlord_dashboard">LandlordDashboardActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string-array name="gender_choices">
+        <item>Select</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+
+
+
+    <string name="termsfirst">
+       We are a group of student researchers conducting a capstone project. We are not a company but rather individuals engaged in research activities. We operate the mobile application Dormify (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").\n\n
+
+        You can contact us by email at dormify@gmail.com\n\n
+
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and Dormify, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.\n\n
+Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms at any time and for any reason. We will alert you about any changes by updating the "Last updated" date of these Legal Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services after the date such revised Legal Terms are posted.\n\n
+The Services are intended for users who are at least 13 years of age. All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Services. If you are a minor, you must have your parent or guardian read and agree to these Legal Terms prior to you using the Services.\n\n\n
+        We recommend that you print a copy of these Legal Terms for your records.\n
+ </string>
+
+    <string name="termsfirst1">
+ 1. ACCEPTANCE OF TERMS\n
+2. USER ELIGIBILITY\n
+3. APPLICATION USAGE\n
+4. USER RESPONSIBILITIES\n
+5. PRIVACY POLICY\n
+6. PAYMENT AND BILLING\n
+7. FEEDBACK AND COMMUNICATION\n
+8. INTELLECTUAL PROPERTY\n
+9. TERMINATION\n
+10. LIMITATION OF LIABILITY\n
+11. GOVERNING LAW\n
+12. CONTACT INFORMATION\n
+    </string>
+
+
+    <string name="shared_public">Shared(Public)</string>
+    <string name="when_you_post_contributions_you_grant_us_a_license_including_use_of_your_name_trademarks_and_logos">When you post Contributions, you grant us a license (including use of your name, trademarks, and logos):</string>
+    <string name="all_purchases_are_non_refundable_you_can_cancel_your_subscription_at_any_time_by_contacting_us_using_the_contact_information_provided_below_your_cancellation_will_take_effect_at_the_end_of_the_current_paid_term_if_you_are_unsatisfied_with_our_services_please_email_us_at_dormify_gmail_com">All purchases are non-refundable. You can cancel your subscription at any time by contacting us using the contact information provided below. Your cancellation will take effect at the end of the current paid term.If you are unsatisfied with our Services, please email us at Dormify@gmail.com</string>
+</resources>

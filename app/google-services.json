@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703844679517",
+    "project_id": "dormyhunt",
+    "storage_bucket": "dormyhunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703844679517:android:c8f34659f5ceeb8a4572b4",
+        "android_client_info": {
+          "package_name": "com.example.dormyhunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHyc-PSp8PqXKIsySFVYv6Kqw7YU-Y8eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

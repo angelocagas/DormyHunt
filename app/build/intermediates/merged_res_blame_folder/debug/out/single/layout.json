@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_main.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/fragment_landlord_conversations.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_landlord_conversations.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/chat_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/chat_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/payment_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/payment_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/item_chat_message_leftland.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_chat_message_leftland.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_terms_and_conditions.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_terms_and_conditions.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/admin_home_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/admin_home_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_landlord_dashboard.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_landlord_dashboard.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/payment_process.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/payment_process.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_dashboard.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/profile_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/profile_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/dormitory_item_layout.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/dormitory_item_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/image_item.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/image_item.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_personal_information.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_personal_information.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/request_dormitory_layout.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/request_dormitory_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/dormitory_list_request.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/dormitory_list_request.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/landlord_home_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_home_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/item_payment_history.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_payment_history.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/item_chat_message_rightland.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_chat_message_rightland.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/saved_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/saved_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_sign_up.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/landlord_add_dormitory_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_add_dormitory_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/landlord_messages_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_messages_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/landlord_tenants_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_tenants_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_dashboard3.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_dashboard3.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/landlord_units_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_units_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/zactivity_sign_up3.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/zactivity_sign_up3.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/map_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/map_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/fragment_request_dorm_detail.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_request_dorm_detail.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/room_item_layout.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/room_item_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/landlord_conversations_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_conversations_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/fragment_dashboard_payment_tenant.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_dashboard_payment_tenant.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/zactivity_sign_up1.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/zactivity_sign_up1.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/fragment_room_list.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_room_list.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_sign_up_tenant.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_sign_up_tenant.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/item_chat_message_right.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_chat_message_right.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_sign_up_otp.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_sign_up_otp.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_sign_in.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/all_dormitory_item_layout.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/all_dormitory_item_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_sign_up_landlord.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_sign_up_landlord.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/fragment_rental_requests_list.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_rental_requests_list.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_about_us.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/fragment_request_detail.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_request_detail.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/zactivity_sign_up2.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/zactivity_sign_up2.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/tenant_item_layout.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/tenant_item_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/image_preview_item.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/image_preview_item.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/fragment_dormitory_detail.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_dormitory_detail.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/room_item_layout_orig.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/room_item_layout_orig.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/request_item_layout.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/request_item_layout.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/landlord_add_tenant_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/landlord_add_tenant_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/item_chat_message_left.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_chat_message_left.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/fragment_request_rent.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_request_rent.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/fragment_admin_list.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_admin_list.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/recycler_payment_list.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/recycler_payment_list.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/home_fragment.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/home_fragment.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/fragment_assign_tenant.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/fragment_assign_tenant.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/item_landlord_conversation.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/item_landlord_conversation.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/adapter_tenant_details.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/adapter_tenant_details.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/activity_admin_dashboard.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.example.dormyhunt.app-mergeDebugResources-57:/layout/dialog_rate.xml",
+        "source": "com.example.dormyhunt.app-main-60:/layout/dialog_rate.xml"
+    }
+]
